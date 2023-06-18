@@ -70,5 +70,4 @@ This project relies on the following dependencies:
 - [axios](https://axios-http.com/): A library for making HTTP requests.
 
 
-
-Feel free to reach out if you have any questions or need further assistance! Happy coding!
+# Terima Kasih untuk ilmu dan waktunya selama satu semester ini Pak Kresna. Semoga semua goals bapak tercapai yaaaa!!!
