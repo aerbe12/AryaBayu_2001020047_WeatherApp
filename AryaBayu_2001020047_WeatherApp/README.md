@@ -1,4 +1,4 @@
-# This app only working until 2 July 2023 because the API  trial end on 2 July 
+![image](https://github.com/aerbe12/AryaBayu_2001020047_WeatherApp/assets/73742725/90be39e8-e2b6-4448-8bbf-0403ce193908)# This app only working until 2 July 2023 because the API  trial end on 2 July 
 # React Native Weather App using WeatherAPI.com
 
 This is a simple weather application built with React Native and Expo, leveraging the WeatherAPI.com key API for retrieving weather data. It allows users to view the current weather conditions for a specified location.
@@ -26,13 +26,13 @@ npm install -g expo-cli
 1. Clone the repository:
 
 ```shell
-git clone <repository-url>
+git clone <https://github.com/aerbe12/AryaBayu_2001020047_WeatherApp.git>
 ```
 
 2. Change into the project directory:
 
 ```shell
-cd weather-app
+cd AryaBayu_2001020047_WeatherApp
 ```
 
 3. Install the dependencies:
