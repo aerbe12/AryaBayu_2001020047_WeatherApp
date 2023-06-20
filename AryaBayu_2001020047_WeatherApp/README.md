@@ -44,8 +44,8 @@ npm install
 
    - Kunjungi situs web [WeatherAPI.com](https://www.weatherapi.com/).
    - Mendaftar untuk mendapatkan akun gratis (atau masuk jika Anda sudah memilikinya).
-   - Arahkan ke bagian "Dasbor API".
-   - Salin kunci API Anda.
+   - Arahkan ke bagian "Dashboard API".
+   - Salin API Anda.
 
 5. Start the application:
 
@@ -66,7 +66,7 @@ Proyek ini bergantung pada dependensi berikut:
 
 - [expo](https://expo.io/): Platform untuk mengembangkan aplikasi React universal.
 - [react-native](https://reactnative.dev/): Framework untuk membuat aplikasi native menggunakan React.
-- [axios](https://axios-http.com/): Pustaka untuk membuat permintaan HTTP.
+- [axios](https://axios-http.com/): untuk membuat permintaan HTTP.
 
 
 # Terima Kasih untuk ilmu dan waktunya selama satu semester ini Pak Kresna. Semoga semua goals bapak tercapai yaaaa!!!
