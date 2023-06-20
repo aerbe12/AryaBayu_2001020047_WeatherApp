@@ -1,21 +1,20 @@
-# This app only working until 2 July 2023 because the API  trial end on 2 July 
-# React Native Weather App using WeatherAPI.com
+# Aplikasi ini hanya berfungsi hingga 2 Juli 2023 karena uji coba API berakhir pada 2 Juli
+# Bereaksi Aplikasi Cuaca Asli menggunakan WeatherAPI.com
 
-This is a simple weather application built with React Native and Expo, leveraging the WeatherAPI.com key API for retrieving weather data. It allows users to view the current weather conditions for a specified location.
+Ini adalah aplikasi cuaca sederhana yang dibangun dengan React Native dan Expo, memanfaatkan API WeatherAPI.com untuk mengambil data cuaca. Ini memungkinkan pengguna untuk melihat kondisi cuaca saat ini untuk lokasi tertentu.
 
+## Fitur
 
-## Features
+- Mengambil data cuaca terkini dari WeatherAPI.com berdasarkan input lokasi pengguna.
+- Menampilkan suhu, kondisi cuaca, dan ikon yang mewakili status cuaca.
+- Menyediakan antarmuka yang ramah pengguna untuk pengalaman pengguna yang intuitif.
 
-- Fetches current weather data from WeatherAPI.com based on the user's location input.
-- Displays the temperature, weather conditions, and an icon representing the weather status.
-- Provides a user-friendly interface for an intuitive user experience.
+## Prasyarat
 
-## Prerequisites
+Untuk menjalankan aplikasi ini secara lokal, Anda harus menginstal prasyarat berikut:
 
-To run this application locally, you need to have the following prerequisites installed:
-
-- Node.js: Make sure you have Node.js installed on your machine. You can download it from [here](https://nodejs.org/).
-- Expo CLI: Install the Expo CLI globally by running the following command in your terminal:
+- Node.js: Pastikan Anda telah menginstal Node.js di mesin Anda. Anda dapat mengunduhnya dari [di sini](https://nodejs.org/).
+- Expo CLI: Instal Expo CLI secara global dengan menjalankan perintah berikut di terminal Anda:
 
 ```shell
 npm install -g expo-cli
@@ -41,12 +40,12 @@ cd AryaBayu_2001020047_WeatherApp
 npm install
 ```
 
-4. Get an API key from WeatherAPI.com:
+4. Dapatkan kunci API dari WeatherAPI.com:
 
-   - Visit the [WeatherAPI.com](https://www.weatherapi.com/) website.
-   - Sign up for a free account (or log in if you already have one).
-   - Navigate to the "API Dashboard" section.
-   - Copy your API key.
+   - Kunjungi situs web [WeatherAPI.com](https://www.weatherapi.com/).
+   - Mendaftar untuk mendapatkan akun gratis (atau masuk jika Anda sudah memilikinya).
+   - Arahkan ke bagian "Dasbor API".
+   - Salin kunci API Anda.
 
 5. Start the application:
 
@@ -54,20 +53,20 @@ npm install
 npm start
 ```
 
-6. Use the Expo development server to run the app on a physical device or an emulator:
+6. Gunakan server pengembangan Expo untuk menjalankan aplikasi di perangkat fisik atau emulator:
 
-   - Install the Expo Go app on your iOS or Android device.
-   - Scan the QR code displayed in the terminal using the Expo Go app (on iOS) or the camera app (on Android).
-   - Alternatively, press `a` in the terminal to run the app on an Android emulator or `i` to run it on an iOS simulator.
+   - Instal aplikasi Expo Go di perangkat iOS atau Android Anda.
+   - Pindai kode QR yang ditampilkan di terminal menggunakan aplikasi Expo Go (di iOS) atau aplikasi kamera (di Android).
+   - Sebagai alternatif, tekan `a` di terminal untuk menjalankan aplikasi di emulator Android atau `i` untuk menjalankannya di simulator iOS.
 
 
-## Dependencies
+## Ketergantungan
 
-This project relies on the following dependencies:
+Proyek ini bergantung pada dependensi berikut:
 
-- [expo](https://expo.io/): A platform for developing universal React applications.
-- [react-native](https://reactnative.dev/): A framework for building native apps using React.
-- [axios](https://axios-http.com/): A library for making HTTP requests.
+- [expo](https://expo.io/): Platform untuk mengembangkan aplikasi React universal.
+- [react-native](https://reactnative.dev/): Framework untuk membuat aplikasi native menggunakan React.
+- [axios](https://axios-http.com/): Pustaka untuk membuat permintaan HTTP.
 
 
 # Terima Kasih untuk ilmu dan waktunya selama satu semester ini Pak Kresna. Semoga semua goals bapak tercapai yaaaa!!!
