@@ -70,8 +70,8 @@ export default function HomeScreen() {
     <View className="flex-1 relative">
       <StatusBar style="light" />
       <Image 
-        blurRadius={120} 
-        source={require('../assets/images/bg.png')} 
+        // blurRadius={40} 
+        source={require('../assets/images/bg2.png')} 
         className="absolute w-full h-full" />
         {
           loading? (
@@ -183,7 +183,7 @@ export default function HomeScreen() {
               <View className="mb-2 space-y-3">
                 <View className="flex-row items-center mx-5 space-x-2">
                   <CalendarDaysIcon size="22" color="white" />
-                  <Text className="text-white text-base">Daily forecast</Text>
+                  <Text className="text-white text-base font-bold">Prakiraan cuaca</Text>
                 </View>
                 <ScrollView   
                   horizontal
@@ -207,7 +207,7 @@ export default function HomeScreen() {
                             // source={{uri: 'https:'+item?.day?.condition?.icon}}
                             source={weatherImages[item?.day?.condition?.text || 'other']}
                               className="w-11 h-11" />
-                          <Text className="text-white">{dayName}</Text>
+                          <Text className="text-white font-bold">{dayName}</Text>
                           <Text className="text-white text-xl font-semibold">
                             {item?.day?.avgtemp_c}&#176;
                           </Text>
