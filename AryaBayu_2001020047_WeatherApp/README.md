@@ -1,4 +1,4 @@
-# Aplikasi ini hanya berfungsi hingga 2 Juli 2023 karena uji coba API berakhir pada 2 Juli
+# Aplikasi ini hanya berfungsi hingga 13 Juli 2023 karena uji coba API berakhir pada 13 Juli
 # Aplikasi Cuaca Asli menggunakan WeatherAPI.com
 
 Ini adalah aplikasi cuaca sederhana yang dibangun dengan React Native dan Expo, memanfaatkan API WeatherAPI.com untuk mengambil data cuaca. Ini memungkinkan pengguna untuk melihat kondisi cuaca saat ini untuk lokasi tertentu.
